@@ -1,0 +1,108 @@
+{
+    "welcome to" : "Karibu",
+"login to continue": "Ingia Kuendelea",
+"welcome-intro": "Gundua habari na matukio ya hivi karibuni yanayotokea ulimwenguni ndani ya dakika chache. Jiunge nasi na utapokea taarifa za makala zetu zote na ushiriki nao na marafiki zako.",
+"skip": "Ruka",
+
+"don't have an account?" : "Je, Huna Akaunti?",
+"create" : "Unda",
+"create account" : "Unda Akaunti",
+"login" : "Ingia",
+"login to access all features" : "Ingia Kuendelea Kutumia Huduma Zote",
+"follow the simple steps": "Fuata Hatua Rahisi",
+"already have an account?": "Tayari Una Akaunti?",
+
+"search contents" : "Tafuta Habari",
+"popular contents" : "Habari Maarufu",
+"recent contents" : "Habari Mpya",
+"view all" : "Tazama Yote",
+
+"search" : "Tafuta",
+"search for contents" : "Tafuta Habari",
+"recent searches" : "Utafutaji wa Hivi Karibuni",
+"search-description" :  "Hujatafuta kitu chochote bado. Jaribu sasa - tutakusaidia!",
+"try again" : "Jaribu tena!",
+"categories" : "Vikundi",
+
+"clear all" : "Ondoa Yote",
+"bookmark is empty" : "Bookmark yako iko wazi!",
+"save your favourite contents here" : "Hifadhi habari yako pendwa hapa",
+"added to your bookamrk" : "Imeongezwa kwenye Bookmark yako",
+
+"no categories found": "Hakuna kundi lililopatikana",
+"no contents found" : "Hakuna habari zilizopatikana",
+"no internet" : "Hakuna muunganisho wa intaneti!",
+"check your internet connection!" : "Hakikisha muunganisho wako wa intaneti!",
+"contents you might love" : "Makala unayoweza kupenda",
+
+"comments" : "Maoni",
+"view comments" : "Tazama Maoni",
+"write a comment" : "Andika Maoni",
+"no comments found" : "Hakuna Maoni yaliyopatikana",
+"be the first to comment" : "Kuwa wa kwanza kutoa maoni",
+"login to make comments" : "Ingia ili uweze kuongeza maoni",
+"comment success title" : "Maoni yametumwa kwa mafanikio",
+"comment success description" : "Maoni yako yametumwa kwa uhakiki. Utayaona kwenye orodha hii baada ya uhakiki.\nAsante",
+"you can't delete others comment" : "Hauwezi kufuta maoni ya wengine",
+"you can't edit others comment" : "Hauwezi kuhariri maoni ya wengine",
+
+    "update comment" : "Update Comment",
+    "delete": "Futa",
+    "update": "Sasisha",
+    
+    "notifications": "Taarifa",
+    "notification details": "Maelezo ya Taarifa",
+    "no notification title": "Hakuna taarifa zilizopatikana!",
+    "no notification description": "Hujapokea taarifa yoyote bado. Hakikisha umewasha taarifa kutoka kwenye mipangilio.",
+    
+    "settings": "Mipangilio",
+    "general settings": "Mipangilio ya Jumla",
+    "social settings": "Mipangilio ya Kijamii",
+    "about app": "Kuhusu App",
+    "dark mode": "Hali ya Giza",
+    "get notifications": "Pata Taarifa",
+    "contact us": "Wasiliana Nasi",
+    "rate this app": "Piga Upatu App Hii",
+    "licence": "Leseni",
+    "privacy policy": "Sera ya Faragha",
+    "about us": "Kuhusu Sisi",
+    "logout": "Toka",
+    "our website": "Tovuti Yetu",
+    "facebook page": "Ukurasa wetu wa Facebook",
+    "youtube channel": "Kituo chetu cha Youtube",
+    
+    "logout title": "Toka kwenye App?",
+    "logout description": "Je, unataka kutoka kwenye App? Utapoteza data yako yote iliyohifadhiwa. Endelea?",
+    
+    "language": "Lugha",
+    "select language": "Chagua Lugha",
+    
+    "explore": "Trending",
+    "videos": "Video",
+    "video contents": "Maudhui ya Video",
+    "twitter": "Twitter",
+    "bookmark": "Alamisho",
+    "bookmarks": "Alamisho",
+    
+    "clear all notification-dialog": "Je, unataka kufuta data yote ya taarifa?",
+    "clear all bookmark-dialog": "Je, unataka kufuta nakala zote zilizohifadhiwa?",
+    
+    "buy now": "Nunua App hii",
+    "buy now subtitle": "Nunua kodi kamili ya chanzo hapa",
+    
+    "accept terms": "Kubali Masharti na Masharti",
+    "flag comment": "Tia Maoni haya Alama",
+    "unflag comment": "Ondoa Alama kwenye Maoni haya",
+    "report": "Ripoti",
+    "report-info": "Ripoti yako imefanikiwa kutumwa kwa wahusika",
+    "comment flagged": "Maoni haya yamewekewa alama!",
+    
+    "security": "Usalama",
+    "request-account-delete": "Ombi la Kufuta Akaunti",
+    "account-delete-title": "Je, unataka kufuta akaunti yako?",
+    "account-delete-confirm": "Ndio, Futa Akaunti Yangu",
+    "cancel": "Ghairi"
+    
+
+
+}
